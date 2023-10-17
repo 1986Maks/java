@@ -1,2 +1,4 @@
 .idea
 Project.iml
+*.DS_STORE
+bin/
